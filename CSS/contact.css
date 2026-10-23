@@ -1,0 +1,2 @@
+.input-error { border-color: #ff4466 !important; box-shadow: 0 0 0 3px #ff446630 !important; }
+#form-feedback { font-family: var(--mono); font-size: 0.82rem; margin-top: 14px; min-height: 20px; }

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato — Everton Tibolla</title>
+  <link rel="stylesheet" href="../CSS/styles.css">
+  <link rel="stylesheet" href="../CSS/contact.css">
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="./about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-wrapper">
+
+    <a href="./about.html" class="back-link">Início</a>
+
+    <header style="padding:0 0 32px">
+      <h1>Entre em <span>Contato</span></h1>
+    </header>
+
+    <section>
+      <h2><a href="https://github.com/Tibolla1/Tibolla1.github.io">GITHUB</a></h2>
+      <h3>Formulário</h3>
+
+      <div class="form-box" style="margin:0; max-width:100%">
+        <form id="contact-form">
+
+          <div class="form-group">
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" name="nome" placeholder="Seu nome completo">
+          </div>
+
+          <div class="form-group">
+            <label for="email">E-mail</label>
+            <input type="text" id="email" name="email" placeholder="seu@email.com">
+          </div>
+
+          <div class="form-group">
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" name="mensagem" rows="5" placeholder="Escreva sua mensagem..."></textarea>
+          </div>
+
+          <button class="primary" type="submit" style="width:100%">Enviar →</button>
+
+          <p id="form-feedback"></p>
+        </form>
+      </div>
+    </section>
+
+  </div>
+
+  <button id="dark-toggle">◑ Claro</button>
+  <div id="font-controls">
+    <button id="font-increase">A+</button>
+    <button id="font-decrease">A-</button>
+  </div>
+
+  <footer>
+    <p>&copy; Atividade Acadêmica de Desenvolvimento Web — Everton Tibolla</p>
+  </footer>
+
+  <script src="../js/script.js"></script>
+</body>
+</html>

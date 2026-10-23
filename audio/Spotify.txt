@@ -1,0 +1,63 @@
+1 <a href="https://www.google.com.br" 
+target="_blank">
+google</a>
+
+2 arpa net servidor de email browser
+
+3 <img>
+
+4 a: <p></p>
+b: id
+c: destaque
+d: Bem-vindo ao site
+
+5 a: italico
+b: lista ordenada
+c: marcação de texto
+d: lista não ordenada
+e: titulo
+
+6 a: v
+b: v
+c: f
+d: v
+e: f
+
+7 a: v
+b: v
+c: f
+d: v
+e: f
+
+8 a: conteúdo principal
+b: rodapé
+c: navegação
+d: conteúdo lateral
+_________________________________________
+section: agrupar conteúdos
+article: colocar conteúdo impendente
+__________________________________________
+
+
+9 <html lang"pt-br">
+<head>
+ <title>Meu primeiro documento</title>
+</head>
+<body>
+<h1>Saudações! (título)</h1>
+<main>Este é o primeiro parágrafo do documento.</main>
+<p>E este é o segundo parágrafo.</p>
+</body>
+</html>
+
+10
+C
+
+11
+a: mkdir
+b: cd
+c: cp
+d: rm
+e: ls
+
+
